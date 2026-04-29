@@ -54,6 +54,7 @@ AI-driven procurement analysis for FY26 targeting 3× revenue growth
 ### Task 5 — Executive Report
 - 5-slide PowerPoint deck
 - 3-page PDF report with findings, risks, and 90-day action plan
+- Note: The executive deck (.pptx) must be downloaded to view — GitHub does not render PowerPoint files.
 
 ---
 
